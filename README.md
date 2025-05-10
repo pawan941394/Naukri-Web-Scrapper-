@@ -122,7 +122,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues to i
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Pawankumar-py4tk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pawan941394/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/p_awan__kumar/)
-[![Agency](https://img.shields.io/badge/Our_Agency-Contact_Us-orange?style=for-the-badge&logo=homeadvisor)](https://www.instagram.com/p_awan__kumar/)
+[![Agency](https://img.shields.io/badge/Our_Agency-Contact_Us-orange?style=for-the-badge&logo=homeadvisor)](bharataiconnect.com/)
 
 ## 📜 License
 
